@@ -6,9 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Pathfinding Visualization
+- 🔭 I’m currently working on Pathfinding Visualization Project which is a part of Microsoft Engage 2020 program.
 - 🌱 I’m currently learning Object Oriented Javascript (ES6) 
-<!-- - 👯 I’m looking to collaborate on a ML and Data Science project. -->
 - 🤔 I’m looking for help with ML and Data Science
 - 💬 Ask me about best free online Django resources
 - 📫 How to reach me: Mail or LinkedIn
