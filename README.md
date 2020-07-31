@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<iframe width="980" height="410" src="https://staging-mars.nasa.gov/layout/embed/send-your-name/future/certificate/?cn=9367580874" frameborder="0"></iframe>
+<img width="980" height="410" src="https://staging-mars.nasa.gov/layout/embed/send-your-name/future/certificate/?cn=9367580874">
 
 <!--
 **soumyaa1804/soumyaa1804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
