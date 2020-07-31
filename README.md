@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<img src="https://drive.google.com/file/d/1owNiM7cHiTsuOsmWItF8IRVU05zStHqv/view?usp=sharing">
+Boarding to Mars! 
+
+<img src="./BoardingPass_MyNameOnFutureMission.png">
 
 <!--
 **soumyaa1804/soumyaa1804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
