@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Mars Colonization! Ticket booked for 2026
+Mars Colonization! Ticket booked for July 2026
 
 <img src="https://raw.githubusercontent.com/soumyaa1804/soumyaa1804/master/BoardingPass_MyNameOnFutureMission.png">
 
