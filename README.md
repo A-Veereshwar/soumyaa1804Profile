@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://mars.nasa.gov/participate/send-your-name/img/mars_future_boarding_pass.5de17b8d.jpg">
+<img src="https://drive.google.com/file/d/1owNiM7cHiTsuOsmWItF8IRVU05zStHqv/view?usp=sharing">
 
 <!--
 **soumyaa1804/soumyaa1804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
