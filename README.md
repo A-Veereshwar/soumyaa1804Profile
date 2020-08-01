@@ -2,7 +2,7 @@
 
 Mars Colonization! Ticket booked for July 2026
 
-<img src="https://raw.githubusercontent.com/soumyaa1804/soumyaa1804/master/BoardingPass_MyNameOnFutureMission.png">
+// <img src="https://raw.githubusercontent.com/soumyaa1804/soumyaa1804/master/BoardingPass_MyNameOnFutureMission.png">
 
 <!--
 **soumyaa1804/soumyaa1804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
