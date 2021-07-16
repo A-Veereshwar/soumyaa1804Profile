@@ -12,7 +12,7 @@ I am using this space to summerize my GitHub profile. Hope you find it useful.
 **Open Source Contributions and Hosted Workshops and Events**
 * [Wikimedia Foundation](https://github.com/soumyaa1804/My_Open_Source_Contributions): Contributed to various projects of Wikimedia Foundation.
 * [Hacktoberfest-IGDTUW](https://github.com/ACM-IGDTUW/Hacktoberfest-IGDTUW): Hosted Hacktoberfest event and helped beginners to start contributing to Open Source projects.
-* [Open Source Challenge](https://github.com/soumyaa1804/Open-Source-Challenge): Hosted a week-long Open Source Challenge under Advaya (Technical week of [ACM IGDTUW](https://github.com/ACM-IGDTUW) wherein students were given daily tasks to contribute to the repository. Winners were awarded with cash prizes.
+* [Open Source Challenge](https://github.com/soumyaa1804/Open-Source-Challenge): Hosted a week-long Open Source Challenge under Advaya (Technical week of [ACM IGDTUW](https://github.com/ACM-IGDTUW)) wherein students were given daily tasks to contribute to the repository. Winners were awarded with cash prizes.
 
 **Mentor Experience:**
 * [ML-Circle 20-21](https://github.com/soumyaa1804/ML-Circle-20-21): Mentored 40 freshmen students for their ML journey by giving sessions on Python libraries and ML algorithms using Sklearn.
