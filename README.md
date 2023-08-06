@@ -6,7 +6,7 @@ I am using this space to summerize my GitHub profile. Hope you find it useful.
 
 **Some interactive projects:**
 * [Mangalyaan](https://github.com/soumyaa1804/PathFinding-Visualization): Created during my **Microsoft Engage Mentorship Program 2020**.
-* [Django Discussion Blog](https://github.com/soumyaa1804/django-discussion-blog): My First hosted project. 
+* [Django Discussion Blog](https://github.com/soumyaa1804/django-discussion-blog): A blog app with the ability for users to cread, read, update and delete the blogs.
 
 
 **Open Source Contributions and Hosted Workshops and Events**
